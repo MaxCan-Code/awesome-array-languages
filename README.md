@@ -27,6 +27,8 @@ feel free to issue a pull request!
 ## J
 - [code.jsoftware.com](https://code.jsoftware.com), J Wiki
 - [Jsaurus](https://jsaurus.info), an imitative approach to finding your way in J
+- [J-80](elcaro.duckdns.org/j-80), graphical playground in J
+- [vim-j](https://github.com/0racle/vim-j), better syntax highlighting for J in Vim
 
 ## K
 - [nsl.com](https://nsl.com), no stinking loops
